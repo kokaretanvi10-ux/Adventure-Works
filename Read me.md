@@ -11,8 +11,11 @@ https://drive.google.com/file/d/1-_ETtxZ_8S0QJ8lkuhmQ5ajNE9Ztq4re/view?usp=drive
 
 🎯 Objectives-
     •   Analyze overall sales performance
-    •	  Identify top-performing products and categories
+    
+    •	Identify top-performing products and categories
+    
     •  	Understand customer behavior and segmentation
+    
     •  	Track regional sales trends
 
 •	Provide a clear and interactive reporting interface

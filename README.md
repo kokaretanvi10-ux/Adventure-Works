@@ -10,22 +10,23 @@ The dashboard is designed to help stakeholders make data-driven decisions throug
 https://drive.google.com/file/d/1-_ETtxZ_8S0QJ8lkuhmQ5ajNE9Ztq4re/view?usp=drive_link
 
 🎯 Objectives-
-Analyze overall sales performance
-Identify top-performing products and categories
-Understand customer behavior and segmentation
-Track regional sales trends
-Provide a clear and interactive reporting interface
+•	Analyze overall sales performance
+•	Identify top-performing products and categories
+•	Understand customer behavior and segmentation
+•	Track regional sales trends
+•	Provide a clear and interactive reporting interface
 
 
 📂 Dataset
 Source: Adventure Works DW 2020
 Type: Data Warehouse (structured relational data)
 Key Tables Used:
-Fact Sales
-Dim Customer
-Dim Product
-Dim Date
-Dim Geography
+•	Fact Sales
+•	Dim Customer
+•	Dim Product
+•	Dim Date
+•	Dim Geography
+
 
 
 📈 Dashboard Features
@@ -38,22 +39,23 @@ Dim Geography
 
 
 🛠️ Tools & Technologies
-Power BI Desktop (.pbix)
-Data Modeling
-DAX (Data Analysis Expressions)
-Data Visualization Techniques
+•	Power BI Desktop (.pbix)
+•	Data Modeling
+•	DAX (Data Analysis Expressions)
+•	Data Visualization Techniques
 
 💡 Key Insights
-Identification of high-revenue products
-Regional performance comparison
-Seasonal sales trends
-Customer purchasing patterns
+•	Identification of high-revenue products
+•	Regional performance comparison
+•	Seasonal sales trends
+•	Customer purchasing patterns
 
 👩‍💻 Author
 Tanvi Kokare
-Banking & Finance Graduate
-Data Analytics Enthusiast
+•	Banking & Finance Graduate
+•	Data Analytics Enthusiast
 
 📬 Contact
 www.linkedin.com/in/tanvikokare
+
 

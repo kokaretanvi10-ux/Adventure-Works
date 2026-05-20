@@ -28,22 +28,26 @@ Source: Adventure Works DW 2020
 Type: Data Warehouse (structured relational data)
 Key Tables Used:
 
-•	Fact Sales
-•	Dim Customer
-•	Dim Product
-•	Dim Date
-•	Dim Geography
+    •	Fact Sales
+    
+    •	Dim Customer
+    
+    •	Dim Product
+    
+    •	Dim Date
+    
+    •	Dim Geography
 
 
 
 
 📈 Dashboard Features
-📊 Sales Overview (Revenue, Profit, Orders)
-🌍 Region-wise Sales Analysis
-🛍️ Product Category Performance
-👥 Customer Insights
-📅 Time-based Trends (Year, Month, Quarter)
-🔍 Interactive Filters & Slicers
+    * Sales Overview (Revenue, Profit, Orders)
+    * Region-wise Sales Analysis
+    * Product Category Performance
+    * Customer Insights
+    * Time-based Trends (Year, Month, Quarter)
+    *  Interactive Filters & Slicers
 
 
 🛠️ Tools & Technologies

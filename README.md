@@ -1,15 +1,15 @@
 📊 Adventure Works DW 2020 – Power BI Dashboard
-📌 Project Overview
+📌 Project Overview-
 
 This project is a Power BI dashboard built using the Adventure Works Data Warehouse 2020 dataset. It provides meaningful insights into business performance by analyzing sales, products, customers, and regional trends.
 
 The dashboard is designed to help stakeholders make data-driven decisions through interactive visualizations and key performance indicators (KPIs).
 
 
-📷 Dashboard Preview
+📷 Dashboard Preview-
 https://drive.google.com/file/d/1-_ETtxZ_8S0QJ8lkuhmQ5ajNE9Ztq4re/view?usp=drive_link
 
-🎯 Objectives
+🎯 Objectives-
 Analyze overall sales performance
 Identify top-performing products and categories
 Understand customer behavior and segmentation

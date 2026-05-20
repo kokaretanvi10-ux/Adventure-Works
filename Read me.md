@@ -10,6 +10,7 @@ The dashboard is designed to help stakeholders make data-driven decisions throug
 https://drive.google.com/file/d/1-_ETtxZ_8S0QJ8lkuhmQ5ajNE9Ztq4re/view?usp=drive_link
 
 🎯 Objectives-
+
 •	Analyze overall sales performance
 •	Identify top-performing products and categories
 •	Understand customer behavior and segmentation
@@ -17,15 +18,18 @@ https://drive.google.com/file/d/1-_ETtxZ_8S0QJ8lkuhmQ5ajNE9Ztq4re/view?usp=drive
 •	Provide a clear and interactive reporting interface
 
 
+
 📂 Dataset
 Source: Adventure Works DW 2020
 Type: Data Warehouse (structured relational data)
 Key Tables Used:
+
 •	Fact Sales
 •	Dim Customer
 •	Dim Product
 •	Dim Date
 •	Dim Geography
+
 
 
 
